@@ -1,0 +1,6 @@
+F:\CsharpProjects\Tftp\Tftp\bin\Debug\Tftp.exe.config
+F:\CsharpProjects\Tftp\Tftp\bin\Debug\Tftp.exe
+F:\CsharpProjects\Tftp\Tftp\bin\Debug\Tftp.pdb
+F:\CsharpProjects\Tftp\Tftp\obj\Debug\Tftp.csprojAssemblyReference.cache
+F:\CsharpProjects\Tftp\Tftp\obj\Debug\Tftp.exe
+F:\CsharpProjects\Tftp\Tftp\obj\Debug\Tftp.pdb
